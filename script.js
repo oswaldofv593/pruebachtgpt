@@ -36,3 +36,4 @@ function appendMessage(message) {
     messages.appendChild(messageElement);
     messages.scrollTop = messages.scrollHeight; // Desplazar hacia abajo
 }
+
